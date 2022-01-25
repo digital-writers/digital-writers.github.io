@@ -1,0 +1,19 @@
+.pushkin {
+  -webkit-backdrop-filter: blur(12px) brightness(100%);
+  backdrop-filter: blur(12px) brightness(100%);
+  background-color: var(--black);
+  display: flex;
+  height: 100vh;
+  min-height: 845px;
+  min-width: 1440px;
+  width: 100%;
+}
+
+.overlay .pushkin {
+  background-color: #00000000;
+}
+
+#overlay-pushkin {
+  background-color: var(--black);
+}
+

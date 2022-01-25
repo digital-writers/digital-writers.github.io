@@ -1,0 +1,12 @@
+.landing-caucasus {
+  align-items: center;
+  background-color: var(--kxk1og);
+  display: flex;
+  flex-direction: column;
+  min-height: 4960px;
+  overflow-x: hidden;
+  padding: 60px 0;
+  position: relative;
+  width: 1440px;
+}
+

@@ -1,0 +1,27 @@
+:root { 
+  --black: #00000014;
+  --h8ji64: #000000;
+  --hint-of-red: #f9f9f9;
+  --kxk1og: #ffffff;
+  --pumice: #c9c9c9;
+  --qldabh: #ffffff;
+  --tu55cu: #ffd1ad;
+  --x--: #eae9e8;
+  --x--250: #94a7b3;
+  --x--350: #b3b29d;
+  --x--500: #4c543e;
+  --x--800: #514342;
+  --x0ezp7u: #ffffff;
+  --x23qbfd: #ccb3a9;
+ 
+  --font-size-l: 15.9px;
+  --font-size-m: 13.8px;
+  --font-size-s: 13px;
+  --font-size-xl: 18px;
+  --font-size-xs: 11.5px;
+  --font-size-xxl: 24px;
+  --font-size-xxs: 9.3px;
+ 
+  --font-family-open_sans: "Open Sans", Helvetica;
+  --font-family-yeseva_one: "Yeseva One", Helvetica;
+}

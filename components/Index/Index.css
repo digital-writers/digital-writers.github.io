@@ -1,0 +1,11 @@
+.index {
+  background-color: var(--hint-of-red);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 2441px;
+  min-width: 1440px;
+  position: relative;
+  width: 100%;
+}
+
